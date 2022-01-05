@@ -30,18 +30,23 @@ README가 프로젝트를 사용하는 사람들에게 도움이 된다면, CONT
 ## 주요 작성 항목
 보통 사람들은 정확한 요구를 인지했을 때 도움을 줄 생각을 합니다. 다양한 사람들로부터 기여를 받고자 할 때에는 어떤 유형의 기여를 받고 싶은지, 기여를 할 때에 어떤 규칙을 지켜야 하는지 미리 안내할 수 있습니다.
 
+다음과 같은 내용을 포함할 수 있습니다.
+
 - 받고자 하는 기여의 종류
-    - 질문을 남기는 방법, 버그를 제보하는 방법, 새로운 기능 을 제안하는 방법 등 기대하는 기여의 종류를 나열
+- 질문을 남기는 방법, 버그를 제보하는 방법, 새로운 기능을 제안하는 방법, 온라인 채팅 및 토론 방법 
 - 코드 기여 방법
     - 개발 환경 설정, 저장소 fork 부터 시작해서 변경 사항을 제출하고 받아들여지기까지의 과정을 설명 
     - 코드를 정렬하거나 테스트를 실행하기 위한 명령을 포함할 수도 있음
 - 개발 환경 설정 방법
     - 사람들이 직접 코드를 작성하고 기여를 하기 위한 개발 환경을 설정하는 방법을 설명
     - 프로젝트를 직접 변경하고 싶어 하는 사람들을 위해서는 어디서부터 시작해야 할지를 알려주고자 하는 것으로, 실행해야 하는 스크립트나 설정해야 하는 환경 변수 등의 모든 단계를 명확히 나열
-- 코딩 컨벤션 / 스타일 가이드
+- 코딩 컨벤션, 스타일 가이드
+- 브랜치 전략
 - Commit 메시지 규칙
+- 소개 가이드
 
 ## 샘플
+- [React - How to Contribute](https://reactjs.org/docs/how-to-contribute.html)
 - [Atom - Cotributing to Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 - [Armeria - Developer Guide](https://armeria.dev/community/developer-guide/)
 - [Openinfradev - How to Contribute](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
