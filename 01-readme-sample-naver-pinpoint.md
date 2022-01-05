@@ -1,6 +1,6 @@
 
 
-![Pinpoint](web/psd/logo.png)
+![Pinpoint](https://github.com/pinpoint-apm/pinpoint/raw/master/web/psd/logo.png)
 
 [![Maven](https://img.shields.io/github/workflow/status/pinpoint-apm/pinpoint/Maven/master?label=build&logo=github)](https://github.com/pinpoint-apm/pinpoint/actions?query=workflow%3AMaven)
 [![codecov](https://codecov.io/gh/pinpoint-apm/pinpoint/branch/master/graph/badge.svg)](https://codecov.io/gh/pinpoint-apm/pinpoint)
@@ -46,15 +46,15 @@ For a more intimate guide, please check out our *[Introduction to Pinpoint](http
 * **Realtime Active Thread Chart** - Monitor active threads inside applications in real-time.
 * **Request/Response Scatter Chart** - Visualize request count and response patterns over time to identify potential problems. Transactions can be selected for additional detail by **dragging over the chart**.
 
-  ![Server Map](doc/images/ss_server-map.png)
+  ![Server Map](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/ss_server-map.png)
 
 * **CallStack** - Gain code-level visibility to every transaction in a distributed environment, identifying bottlenecks and points of failure in a single view.
 
-  ![Call Stack](doc/images/ss_call-stack.png)
+  ![Call Stack](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/ss_call-stack.png)
 
 * **Inspector** - View additional details on the application such as CPU usage, Memory/Garbage Collection, TPS, and JVM arguments.
 
-  ![Inspector](doc/images/ss_inspector.png)
+  ![Inspector](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/ss_inspector.png)
 
 ## Supported Modules
 * JDK 7+
@@ -128,7 +128,7 @@ We have Chinese community now, welcome to join!
 
 QQ Group1: 897594820 | QQ Group2: 812507584 | DING Group : 21981598
 :----------------: | :-----------: | :-----------: 
-![QQ Group1](doc/images/NAVERPinpoint.png) | ![QQ Group2](doc/images/NAVERPinpoint2.png) | ![DING Group](doc/images/NaverPinpoint交流群-DING.jpg)
+![QQ Group1](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/NAVERPinpoint.png) | ![QQ Group2](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/NAVERPinpoint2.png) | ![DING Group](https://github.com/pinpoint-apm/pinpoint/raw/master/doc/images/NaverPinpoint%E4%BA%A4%E6%B5%81%E7%BE%A4-DING.jpg)
 
 
 ## License
