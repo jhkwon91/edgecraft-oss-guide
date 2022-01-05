@@ -73,3 +73,9 @@
     - 프로젝트를 사용함에 있어 제약 조건이 있는가(특허, 상업적 사용)?
 - 외부 리소스 정보: 프로젝트 내에 포함된 외부의 코드나 리소스의 정보를 포함합니다.
     - 각각의 출처 및 배포 라이선스는 무엇인가?
+
+## 샘플
+- [Bootstrap](https://github.com/twbs/bootstrap#readme)
+- [Naver Pinpoint](https://github.com/pinpoint-apm/pinpoint/blob/master/README.md)
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template/blob/master/README.md)
+
