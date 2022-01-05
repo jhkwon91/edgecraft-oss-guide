@@ -8,3 +8,6 @@
 - 라이선스 원문 (보통 하이퍼링크 정보)
 - 저작권 
 - 소스 코드를 받는 방법 (GPL과 같이 소스코드 공개 의무가 발생하는 경우)
+
+## 샘플
+- [Naver Pinpoint](https://github.com/pinpoint-apm/pinpoint/blob/master/NOTICE)
