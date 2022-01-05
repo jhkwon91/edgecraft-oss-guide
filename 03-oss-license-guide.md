@@ -15,4 +15,24 @@
     - Github 프로젝트를 분석하여 사용한 오픈소스의 데이터를 관리하고, 라이선스 및 의무사항을 확인하여 보고서를 제공합니다.
 - FOSSology : https://www.fossology.org/
     - 리눅스 재단이 제공하는 웹 기반의 프로그램으로 웹 사이트에 로그인하여 개별 파일 혹은 소프트웨어를 업로드하면, 업로드된 파일 내의 라이선스 텍스트와 Copyright 정보를 검출하여 이를 보고서로 제공합니다. [오픈소스 라이선스 스캔 도구, FOSSology를 소개합니다.](https://devocean.sk.com/opensource/techBoardDetail.do?ID=158882)라는 글에서 간단한 사용법을 소개하고 있습니다.
-         
+
+## 고지 방법
+
+### NOTICE 파일
+개발하려는 소스 코드에 대한 저작권 및 라이선스 정보를 제공합니다. 
+
+이용한 오픈소스의 라이선스 정보는 NOTICE 파일의 뒷부분에 포함시킵니다. Apache 2.0의 경우에는 NOTICE 파일을 두고, 그 파일 내에 라이선스 및 저작권 고지 등의 사항을 포함하도록 안내하고 있습니다. NOTICE 파일을 작성할 경우에는 [NOTICE 가이드](./04-notice-guide.md) 내용을 참조합니다. 
+
+### 소스 코드 
+소스 코드 내에서의 저작권 고지 및 개발하려는 소스 코드가 채택한 라이선스 고지에 대해서는 [소스코드 헤더 가이드](./02-source-code-header-guide.md) 내용을 참조합니다.
+
+### README.md 파일
+저작권과 라이선스 정보는 README.md 파일에도 포함시켜야 합니다.
+
+### LICENSE 파일
+LICENSE 파일은 프로젝트를 누구나 사용할 수 있다고 명시하고 있는 오픈소스 라이선스를 담고 있는 파일입니다. 
+
+소스 코드가 채택한 라이선스 고지의 경우 그 사본을 LICENSE 파일로 제공합니다. 라이센스 사본을 LICENSE 파일로 제공하는 대표적인 예로서, Apache 2.0을 채택한 [Kubernetes](https://raw.githubusercontent.com/kubernetes/kubernetes/master/LICENSE)가 있습니다.
+
+### 수정 내용 고지
+Apache 2.0, MPL, GPL 2.0, GPL 3.0 등의 라이선스는 소스 코드 수정 시 수정내용을 고지해야 합니다. 수정한 사람, 수정 일자 등 수정 관련 내용을 포함함으로써 원본과 구별이 되어야 합니다.

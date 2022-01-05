@@ -4,6 +4,9 @@
 - 소스 코드 파일을 직접 생성한 경우
 - 외부 오픈소스 프로젝트 파일을 가져와 수정해서 사용한 경우
 
+## 소스코드 저작권 
+소스 코드 저작권 고지는 일반적으로 "copyright"라는 단어를 포함하여 연도와 저작권자 혹은 회사명을 포함하는 문장열로 이루어 집니다. 오픈소스 라이선스에 따라 특허가 있는 경우라면, 특허 소유자와 오픈소스 기여자들을 표시하기도 합니다. 연도는 일반적으로 최초 게시된 연도를 의미하며, 저작권 보호기간을 결정하는데 사용될 수 있도록 저작권 기간을 의미하기도 합니다.
+
 ## 소스 코드 헤더 주석 작성 예시
 
 ### 네이버 [Pinpoint](https://github.com/pinpoint-apm/pinpoint/blob/90c7603681a3fc310faead9ad47cc358ad49c04e/web/src/main/webapp/components/jquery-ui/ui/jquery.ui.datepicker.js) 프로젝트 경우
